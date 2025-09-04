@@ -18,7 +18,6 @@ It creates **personalized diet plans**, tracks your daily nutrition, and even su
 - **Streamlit** – UI & app hosting  
 - **Google Gemini API** – AI diet recommendations  
 - **LangGraph & LangChain** – workflow orchestration  
-- **Matplotlib** – charts & progress tracking  
 - **FPDF** – PDF report generation  
 
 ---
