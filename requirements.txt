@@ -1,13 +1,9 @@
-# Core libraries
-numpy==1.26.4
+streamlit==1.25.0
 pandas==2.5.3
 fpdf2==2.6.1
-streamlit==1.25.0
-
-# Google AI & LangChain
-google-generativeai==0.8.5
-google-ai-generativelanguage==0.6.15
 langgraph==0.0.45
 langchain==0.2.14
 langchain-google-genai==0.0.9
+google-generativeai==0.8.5
+google-ai-generativelanguage==0.6.15
 openai==1.8.4
